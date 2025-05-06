@@ -18,11 +18,12 @@ I classified the artefacts into 3 major divisions. You can access it through thi
 📊 Results
 Achieved seemingly high accuracy in recognizing different classes of artifacts. It will increase when I gather additional dataset and group it correctly.
 Classification Report:
-                                       precision    recall  f1-score   support
+                                             precision    recall  f1-score   support
 
-             Altar and Shrine Objects       0.88      0.83      0.85       214
-       Ceremonial Regalia and Objects       0.78      0.76      0.77       147
-Palace Architecture and Ornamentation       0.76      0.83      0.80       180
+                 Altar and Shrine Objects      0.88      0.83      0.85       214
+           Ceremonial Regalia and Objects      0.78      0.76      0.77       147
+    Palace Architecture and Ornamentation      0.76      0.83      0.80       180
+
 
                              accuracy                           0.81       541
                             macro avg       0.81      0.81      0.80       541
